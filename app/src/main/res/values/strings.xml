@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_with_a_friend">Play with a friend</string>
+    <string name="play_vs_computer">Play vs Computer</string>
+    <string name="start">Start</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="singleplayer">Singleplayer</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="singleplayerr">singleplayer</string>
+</resources>
